@@ -1,6 +1,4 @@
-package A1;
-
-public class Exercise3 {
+class SizeTypes {
 
 	public static void main(String[] args) {
 		
