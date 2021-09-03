@@ -10,5 +10,4 @@ class DataType {
 		char f = 'A';
 		System.out.println(a + " " + b + " " + c + " " + d + " " + e + " " +f);
 	}
-
 }
